@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyFlexibleFragmentThree</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="this_profile">Ini activity Profile</string>
+    <string name="this_category">Ini fragment Category</string>
+    <string name="category_lifestyle">Ke fragment Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_profile">Ke Halaman Profile Activity</string>
+    <string name="show_dialog">Tampilkan sebuah dialog</string>
+    <string name="hello_home_fragment">Hello Ini Home Fragment</string>
+    <string name="to_category">Ke fragment Category</string>
+    <string name="question_coach">Siapa pelatih tersukses Machester United?</string>
+    <string name="sir_alex_ferguson">Sir Alex Ferguson</string>
+    <string name="jose_mourinho">Jose Mourinho</string>
+    <string name="louis_van_gaal">Louis Van Gaal</string>
+    <string name="david_moyes">David Moyes</string>
+    <string name="choose">Pilih</string>
+    <string name="close">Tutup</string>
+
+    <string name="MyName">Rezal Wahyu Pratama</string>
+    <string name="From">Mahasiswa Informatika Universitas PGRI Semarang</string>
+    <string name="About">Rezal Wahyu Pratama adalah seorang Mahasiswa di Universitas swasta di semarang yaitu Universitas PGRI Semarang, dia masuk di Program Studi Informatika, Program Studi yang banyak orang bilang sulit. Program Study yang masuk di Fakultas Teknik dan Informatika tersebut mendapatkan akreditasi B, pada tahun 2019.</string>
+    <string name="TitleDetail">Detail</string>
+    <string name="TitleTable1">Tempat Lahir</string>
+    <string name="TextTable1">Pati</string>
+    <string name="TitleTable2">Tanggal Lahir</string>
+    <string name="TextTable2">10 Juni 1999 (usia 20 tahun)</string>
+    <string name="TitleTable3">Riwayat Pendidikan</string>
+    <string name="TextTable31">SDN Angkatan Lor 03, \nMTs Tuan Sokolangu, Gabus, \nSMK Taruna Bangsa, Pati.</string>
+    <string name="TitleMade">Tugas Ini Dibuat Oleh</string>
+    <string name="TitleTableMade1">Nama</string>
+    <string name="TitleTableMade2">NPM</string>
+    <string name="TextTableMade1">: Rezal Wahyu Pratama</string>
+    <string name="TextTableMade2">: 17670024</string>
+    <string name="ButtonText">UTS Mobile Programing</string>
+</resources>
